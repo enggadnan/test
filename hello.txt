@@ -1,0 +1,4 @@
+WELL DONE
+I am able to create a repository 'test' on github, was able to link with gitkraken.
+Installed git core on the computer.
+Configured gitkraken and able to access the repository 'test'
